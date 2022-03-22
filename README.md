@@ -1,3 +1,3 @@
 # Wyszukiwarka-JS
 
-Wyszukiwarka nazw z utrzowonej listy
+Wyszukiwarka nazw z listy
